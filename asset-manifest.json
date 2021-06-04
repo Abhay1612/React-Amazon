@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Amazon/static/css/main.4f160c4f.chunk.css",
+    "main.js": "/React-Amazon/static/js/main.4e45683a.chunk.js",
+    "main.js.map": "/React-Amazon/static/js/main.4e45683a.chunk.js.map",
+    "runtime-main.js": "/React-Amazon/static/js/runtime-main.4dd8b66e.js",
+    "runtime-main.js.map": "/React-Amazon/static/js/runtime-main.4dd8b66e.js.map",
+    "static/js/2.e5e76d0a.chunk.js": "/React-Amazon/static/js/2.e5e76d0a.chunk.js",
+    "static/js/2.e5e76d0a.chunk.js.map": "/React-Amazon/static/js/2.e5e76d0a.chunk.js.map",
+    "index.html": "/React-Amazon/index.html",
+    "precache-manifest.c14677c2e15d2ff34622744d34557482.js": "/React-Amazon/precache-manifest.c14677c2e15d2ff34622744d34557482.js",
+    "service-worker.js": "/React-Amazon/service-worker.js",
+    "static/css/main.4f160c4f.chunk.css.map": "/React-Amazon/static/css/main.4f160c4f.chunk.css.map",
+    "static/js/2.e5e76d0a.chunk.js.LICENSE.txt": "/React-Amazon/static/js/2.e5e76d0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd8b66e.js",
+    "static/js/2.e5e76d0a.chunk.js",
+    "static/css/main.4f160c4f.chunk.css",
+    "static/js/main.4e45683a.chunk.js"
+  ]
+}
